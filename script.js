@@ -2,9 +2,9 @@
 Created by: Kit Howlett
 Date: 05/01/2021
 
-Context: 'Codecademy code challange to test knowledge of JavaScript variables, data types,
+Context: 'Codecademy code challenge to test knowledge of JavaScript variables, data types,
 conditionals/control flow and functions. The project features a number guessing game. As a
-challange, it was my responsibility to create the below functions in order to get the game
+challenge, it was my responsibility to create the below functions in order to get the game
 working.'
 ------------------------------------------------ */
 
