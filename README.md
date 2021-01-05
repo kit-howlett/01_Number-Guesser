@@ -1,4 +1,4 @@
-# Simple Number Guessing Game - Codecademy Coding Challenge
+# Simple Number Guessing Game
 
 This is part of a Codecademy code challenge to test knowledge of JavaScript variables, data types,
 conditionals/control flow and functions. The project features a number guessing game. As a
